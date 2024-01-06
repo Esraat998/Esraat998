@@ -1,4 +1,4 @@
-![Banner GIF](https://github.com/mamun-akand/ATM-Machine-With-All-Transaction/assets/97316146/75e61de0-0b57-42b1-8b8c-19a02a93bae2)
+![Banner GIF2](https://github.com/mamun-akand/mamun-akand/assets/97316146/6036c6dd-e0a7-40c6-8714-9feb5a2ca2a0)
 
 <h1 align="center">Hi 👋, I'm Esraat Zahan Liza</h1>
 <h3 align="center">Passionate Programmer | Continuous Learner</h3>
